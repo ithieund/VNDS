@@ -4,7 +4,7 @@ Original paper: VNDS: A Vietnamese Dataset for Summarization (https://www.resear
 Contributors: Nguyen Van Hau, Nguyen Thanh Chinh, Nguyen Minh Tien, Nguyen Xuan Hoai
 
 # What we have here?
-- Data is forked at 28-01-2021
+- Data is forked on 28-01-2021
 - Data is zipped into zip files instead of raw directories with large amount of files
 
 # Why we do that?
